@@ -208,6 +208,9 @@ header.newclass li a {
 .blok45{
     color: #ff0157;
 }
+.blok46{
+    background: #000;
+}
 .blok3-inner img:nth-child(1){
     -webkit-clip-path: insert( 0 80% 0 0);
     clip-path: inset(0 80% 0 0);
